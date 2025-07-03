@@ -1,2 +1,2 @@
 print('index.py')
-print('version2')
+print('version2 updated')
